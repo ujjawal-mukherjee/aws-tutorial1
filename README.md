@@ -1,5 +1,5 @@
 # aws-tutorial1
-#Day 2
+#Lab1-Day 2
 
 #Lab 2 – VPC	Day 4–5
 
